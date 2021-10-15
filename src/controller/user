@@ -1,0 +1,10 @@
+abstract class User {
+
+    /**
+     * It displays user's personal information and allow users to log in to their own account.
+     */
+    abstract getFriend(): Dict
+
+/**
+ * get friends' usernames and skymap.
+ */
