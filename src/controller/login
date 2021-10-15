@@ -1,0 +1,11 @@
+interface log-in {
+
+    /**
+     * provide an interface for users to login to their account.
+     */
+    determinePass(): boolean
+        /**
+         * Return true if the user has already had an account so that guide the user get into their account;
+         * else the user does not have an account and then create a new account for this user...
+         */
+        }
