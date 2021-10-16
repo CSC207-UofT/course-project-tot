@@ -1,10 +1,10 @@
-abstract class User {
-
+abstract class user {
     /**
      * It displays user's personal information and allow users to log in to their own account.
      */
-    abstract getFriend(): Dict
+     abstract void getFriend();
 
     /**
-    * get friends' usernames and skymap.
-    */
+     * get friends' usernames and their skymaps.
+     */
+}
