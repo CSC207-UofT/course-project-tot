@@ -1,0 +1,73 @@
+#Timer
+
+Set time(focus,short/long bread)
+
+Time countdown
+
+Pause  
+
+Stop
+
+resume
+
+Interact with: goal
+
+#Calendar
+Google API
+
+Add goals
+
+List goals
+
+Interact with: AdvancedCalendar
+
+#Goal
+Set name
+
+Set requiredTime
+
+Set explanation
+
+Taps
+
+Interact with:Goals, Stats
+
+#Goals
+Add goals
+
+Delete goals
+
+Range goals
+
+Interact with: Goal, User
+
+#Stats
+add(time, goals)
+
+Interact with:
+Goals, 
+User
+
+#AdvancedCalendar
+Add goals
+
+Interact with:
+Calendar
+
+#User
+Set goals
+
+Get stats
+
+Set advancedCalendar
+
+Login
+
+Interact with:
+Goals, 
+Stats, 
+AdvancedCalendar
+
+
+
+
